@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\enums\\enumtipoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\enums\\enumtipoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|solutionrelative:estoque\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|solutionrelative:estoque\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|solutionrelative:estoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\controllers\\pedidodetalhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\pedidodetalhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\models\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\models\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\models\\pedidodetalhemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\models\\pedidodetalhemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\Estoque.csproj|solutionrelative:estoque\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE91FB-89B4-46D1-BF33-673C9403A845}|Estoque\\API.Pedido.csproj|solutionrelative:estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\pedidovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\pedidovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\entidades\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069AF7A4-9192-4EB1-A314-C9D55EC6D093}|Dominio\\Dominio.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\dominio\\interfacesdeservicos\\iservicodepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069AF7A4-9192-4EB1-A314-C9D55EC6D093}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfacesdeservicos\\iservicodepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\infra\\servicos\\servicodepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|solutionrelative:infra\\servicos\\servicodepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\infra\\servicos\\servicodepedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|solutionrelative:infra\\servicos\\servicodepedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069AF7A4-9192-4EB1-A314-C9D55EC6D093}|Dominio\\Dominio.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\dominio\\interfacesdeservicos\\iservicodepedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069AF7A4-9192-4EB1-A314-C9D55EC6D093}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfacesdeservicos\\iservicodepedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProcessoSeletivoBkp\\Estoque\\Backend\\Estoque\\Infra\\Migrations\\20241124193805_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProcessoSeletivo\\Backend\\Estoque\\Infra\\Migrations\\20241122131036_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\enderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\enderecovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\pedidodetalhevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\pedidodetalhevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\infra\\repositorio\\repositoriopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\infra\\servicos\\servicodeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B08A8F-1BED-4C82-A276-503225B18620}|Infra\\Infra.csproj|solutionrelative:infra\\servicos\\servicodeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|d:\\desenvolvimentos console\\estoque\\estoque\\backend\\estoque\\entities\\validadores\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5F912-8807-4B92-B760-F6B6F983A34C}|Entities\\Entities.csproj|solutionrelative:entities\\validadores\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumTipoEndereco.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Enums\\EnumTipoEndereco.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\EnumTipoEndereco.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Enums\\EnumTipoEndereco.cs",
+              "RelativeToolTip": "Entities\\Enums\\EnumTipoEndereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:04:18.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "Estoque\\Models\\ClienteModel.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "Estoque\\Models\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:52:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "Estoque\\Models\\ProdutoModel.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "Estoque\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:52:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Program.cs",
+              "RelativeDocumentMoniker": "Estoque\\Program.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Program.cs",
+              "RelativeToolTip": "Estoque\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:51:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\appsettings.json",
+              "RelativeDocumentMoniker": "Estoque\\appsettings.json",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\appsettings.json",
+              "RelativeToolTip": "Estoque\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T15:50:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:30:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\PedidoController.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAewIwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:10:18.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicoDePedido.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDePedido.cs",
+              "RelativeDocumentMoniker": "Infra\\Servicos\\ServicoDePedido.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDePedido.cs",
+              "RelativeToolTip": "Infra\\Servicos\\ServicoDePedido.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAABFwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:32:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IServicoDePedidoDetalhe.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Dominio\\InterfacesDeServicos\\IServicoDePedidoDetalhe.cs",
+              "RelativeDocumentMoniker": "Dominio\\InterfacesDeServicos\\IServicoDePedidoDetalhe.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Dominio\\InterfacesDeServicos\\IServicoDePedidoDetalhe.cs",
+              "RelativeToolTip": "Dominio\\InterfacesDeServicos\\IServicoDePedidoDetalhe.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA2wA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:39:08.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoValidator.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\PedidoValidator.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\PedidoValidator.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\PedidoValidator.cs",
+              "RelativeToolTip": "Entities\\Validadores\\PedidoValidator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:03:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Pedido.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Pedido.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:48:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoDetalhe.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\PedidoDetalhe.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\PedidoDetalhe.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\PedidoDetalhe.cs",
+              "RelativeToolTip": "Entities\\Entidades\\PedidoDetalhe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:33:39.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:50:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServicoDePedido.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Dominio\\InterfacesDeServicos\\IServicoDePedido.cs",
+              "RelativeDocumentMoniker": "Dominio\\InterfacesDeServicos\\IServicoDePedido.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Dominio\\InterfacesDeServicos\\IServicoDePedido.cs",
+              "RelativeToolTip": "Dominio\\InterfacesDeServicos\\IServicoDePedido.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:32:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServicoDePedidoDetalhe.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDePedidoDetalhe.cs",
+              "RelativeDocumentMoniker": "Infra\\Servicos\\ServicoDePedidoDetalhe.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDePedidoDetalhe.cs",
+              "RelativeToolTip": "Infra\\Servicos\\ServicoDePedidoDetalhe.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1IAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:45:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Produto.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Produto.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:48:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241124193805_init.cs",
+              "DocumentMoniker": "D:\\ProcessoSeletivoBkp\\Estoque\\Backend\\Estoque\\Infra\\Migrations\\20241124193805_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ProcessoSeletivoBkp\\Estoque\\Backend\\Estoque\\Infra\\Migrations\\20241124193805_init.cs",
+              "ToolTip": "D:\\ProcessoSeletivoBkp\\Estoque\\Backend\\Estoque\\Infra\\Migrations\\20241124193805_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ProcessoSeletivoBkp\\Estoque\\Backend\\Estoque\\Infra\\Migrations\\20241124193805_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:38:05.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Cliente.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:36:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoDetalheController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\PedidoDetalheController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\PedidoDetalheController.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\PedidoDetalheController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\PedidoDetalheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:39:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoDetalheModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\PedidoDetalheModel.cs",
+              "RelativeDocumentMoniker": "Estoque\\Models\\PedidoDetalheModel.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\PedidoDetalheModel.cs",
+              "RelativeToolTip": "Estoque\\Models\\PedidoDetalheModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:39:31.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnderecoModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\EnderecoModel.cs",
+              "RelativeDocumentMoniker": "Estoque\\Models\\EnderecoModel.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\EnderecoModel.cs",
+              "RelativeToolTip": "Estoque\\Models\\EnderecoModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:07:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidoDetalheValidator.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\PedidoDetalheValidator.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\PedidoDetalheValidator.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\PedidoDetalheValidator.cs",
+              "RelativeToolTip": "Entities\\Validadores\\PedidoDetalheValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABMwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:49:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:25:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\PedidoModel.cs",
+              "RelativeDocumentMoniker": "Estoque\\Models\\PedidoModel.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Models\\PedidoModel.cs",
+              "RelativeToolTip": "Estoque\\Models\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:39:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\EnderecoController.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Estoque\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:56:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241122131036_init.cs",
+              "DocumentMoniker": "D:\\ProcessoSeletivo\\Backend\\Estoque\\Infra\\Migrations\\20241122131036_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ProcessoSeletivo\\Backend\\Estoque\\Infra\\Migrations\\20241122131036_init.cs",
+              "ToolTip": "D:\\ProcessoSeletivo\\Backend\\Estoque\\Infra\\Migrations\\20241122131036_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ProcessoSeletivo\\Backend\\Estoque\\Infra\\Migrations\\20241122131036_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:10:37.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T12:47:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositorioPedido.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Repositorio\\RepositorioPedido.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioPedido.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Repositorio\\RepositorioPedido.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\RepositorioPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:09:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnderecoValidator.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\EnderecoValidator.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\EnderecoValidator.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\EnderecoValidator.cs",
+              "RelativeToolTip": "Entities\\Validadores\\EnderecoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\Notifica.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\Notifica.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\Notifica.cs",
+              "RelativeToolTip": "Entities\\Validadores\\Notifica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:39:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServicoDeProduto.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDeProduto.cs",
+              "RelativeDocumentMoniker": "Infra\\Servicos\\ServicoDeProduto.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Infra\\Servicos\\ServicoDeProduto.cs",
+              "RelativeToolTip": "Infra\\Servicos\\ServicoDeProduto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:57:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProdutoValidator.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\ProdutoValidator.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\ProdutoValidator.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\ProdutoValidator.cs",
+              "RelativeToolTip": "Entities\\Validadores\\ProdutoValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:58:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClienteValidator.cs",
+              "DocumentMoniker": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\ClienteValidator.cs",
+              "RelativeDocumentMoniker": "Entities\\Validadores\\ClienteValidator.cs",
+              "ToolTip": "D:\\Desenvolvimentos Console\\Estoque\\Estoque\\Backend\\Estoque\\Entities\\Validadores\\ClienteValidator.cs",
+              "RelativeToolTip": "Entities\\Validadores\\ClienteValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:08:10.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 973,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

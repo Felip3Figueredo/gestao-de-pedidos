@@ -1,0 +1,53 @@
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.runtimeconfig.json
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.genruntimeconfig.cache
+D:\ProcessoSeletivo\Backend\Estoque\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.runtimeconfig.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.genruntimeconfig.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.runtimeconfig.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\bin\Debug\net8.0\Entities.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.csproj.Up2Date
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\Dominio.genruntimeconfig.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Dominio\obj\Debug\net8.0\ref\Dominio.dll

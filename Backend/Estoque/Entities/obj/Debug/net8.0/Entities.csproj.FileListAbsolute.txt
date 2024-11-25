@@ -1,0 +1,44 @@
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\ProcessoSeletivo\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\ProcessoSeletivo\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivo\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\ProcessoSeletivo\Backend\Estoque\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\bin\Debug\net8.0\Entities.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Entities\obj\Debug\net8.0\ref\Entities.dll

@@ -1,0 +1,59 @@
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.dll
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.dll
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.pdb
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+D:\ProcessoSeletivo\Backend\Estoque\Infra\obj\Debug\net8.0\ref\Infra.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.sourcelink.json
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.pdb
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+D:\ProcessoSeletivoBkp\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\ref\Infra.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Infra.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Dominio.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\bin\Debug\net8.0\Entities.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.sourcelink.json
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.pdb
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+D:\Desenvolvimentos Console\Estoque\Estoque\Backend\Estoque\Infra\obj\Debug\net8.0\ref\Infra.dll
